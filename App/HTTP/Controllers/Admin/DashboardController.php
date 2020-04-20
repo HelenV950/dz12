@@ -1,7 +1,7 @@
 <?php
-namespace HTTP\Helpers;
+namespace App\HTTP\Controllers\Admin;
 
-class ImageHelper
+class DashboardController
 {
   public function __construct()
   {

@@ -1,7 +1,7 @@
 <?php
-namespace HTTP\Controllers;
+namespace App\HTTP\Controllers\Admin;
 
-class MainController
+class OrdersController
 {
   public function __construct()
   {

@@ -1,7 +1,7 @@
 <?php
-namespace HTTP\Controllers\Admin;
+namespace App\HTTP\Helpers;
 
-class OrdersController
+class ImageHelper
 {
   public function __construct()
   {

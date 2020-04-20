@@ -1,7 +1,7 @@
 <?php
-namespace HTTP\Controllers\Admin;
+namespace App\HTTP\Controllers;
 
-class DashboardController
+class MainController
 {
   public function __construct()
   {
